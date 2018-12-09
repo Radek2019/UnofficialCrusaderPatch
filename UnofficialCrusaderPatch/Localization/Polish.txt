@@ -1,6 +1,6 @@
 ﻿Name
 {
-	"Nieoficjalny Crusader Patcher"
+	"Nieoficjalny Crusader Patch"
 }
 
 u_ArabXBow
@@ -10,17 +10,17 @@ u_ArabXBow
 
 u_arabxbow_descr
 {
-	" - Arabscy szermierze umierają po 6 zamiast 3 strzałach z kuszy"
+	" - Arabscy szermierze umierają po sześciu strzałach zamiast trzech z kuszy"
 }
 
 u_ArabWall
 {
-	"Arabscy szermierze niszczą szybciej mury"
+	"Arabscy zbrojni niszczą szybciej mury wroga"
 }
 
 u_ArabWall_descr
 {
-	"W Wanili arabscy szermierze niszczą ściany wolniej niż jakakolwiek inna walka wręcz. &
+	"W Wanili arabscy zbrojni niszczą ściany wolniej niż jakakolwiek inna walka wręcz. &
 Dzięki tej opcji prędkość zrywania przy ścianach jest dla nich dwukrotnie większa, i &
 umieszczając je nieco powyżej włóczników."
 }
@@ -32,7 +32,7 @@ u_spearmen
 
 u_spearmen_descr
 {
-	" - Włócznicy giną tylko po 5 strzałach zamiast 3
+	" - Włócznicy giną tylko po pięciu strzałach zamiast trzech
  - Włócznicy ledwie przeżywają jeden cios w kuszę, zamiast jednego strzału"
 }
 
@@ -57,7 +57,7 @@ ui_error
 
 ui_SearchPath
 {
-	"Wybierz folder w którym znajduję się zainstalowany stronghold Crusader:"
+	"Wybierz folder w którym znajduję się zainstalowany Stronghold Crusader:"
 }
 
 ui_search
@@ -150,7 +150,7 @@ ui_uninstalldone
 
 ai_recruitinterval
 {
-	"Zwiększona prędkość rekrutacji"
+	"Zwiększona prędkość rekrutacji wojsk"
 }
 
 ai_recruitinterval_descr
@@ -229,7 +229,7 @@ ai_addattack
 
 ai_addattack_descr
 {
-	"W Vanilla liczba żołnierzy wzrasta po każdym ataku o 5 i &
+	"W Wanilli liczba żołnierzy wzrasta po każdym ataku o 5 i &
 jednostki średnio. Ta wartość jest taka sama dla wszystkich lordów AI i można ją zmienić i &
 tutaj."
 }
@@ -247,14 +247,14 @@ Atak żołnierzy Saladyna = 50, 75, 100, 125, ..."
 
 u_laddermen
 {
-	"Zwiększona zbroja z laddermenów przeciwko jednostkom strzelającym"
+	"Zwiększona zbroja u zbrojnych przeciwko jednostkom strzelającym"
 }
 
 u_laddermen_descr
 {
-	" - Drabiniarz ginie po 12 strzałach zamiast po 5
- - Drabiniarz ginie po 5 trafieniach kuszy lub procy zamiast 2
- - Drabiniarz kosztuje 20 złotych zamiast 4"
+	" - Drabiniarz ginie po dwunastu strzałach zamiast po pięciu
+ - Drabiniarz ginie po pięciu trafieniach kuszy lub procy zamiast dwóch
+ - Drabiniarz jest teraz droższy i kosztuje w granicach 20+- złotych zamiast 4"
 }
 
 o_playercolor
@@ -285,12 +285,12 @@ ai_demolish
 
 ai_demolish_walls
 {
-	"budynki fortyfikacyjne"
+	"Budynki fortyfikacyjne"
 }
 
 ai_demolish_eco
 {
-	"budynki ekononiczne"
+	"Budynki ekonomiczne"
 }
 
 ai_demolish_walls_descr
@@ -360,7 +360,7 @@ podczas korzystania z tej funkcji."
 
 ai_attackwave
 {
-	"Poprawa fali ataków"
+	"Poprawa fali ataków przeciwnika"
 }
 
 ai_attackwave_descr
